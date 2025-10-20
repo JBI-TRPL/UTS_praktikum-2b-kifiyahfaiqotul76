@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/58YCLsqW)
+#Ujian Praktikum Flutter POS SQLite
+
+**Nama Mahasiswa : Siti Faiqotul kifiyah **
+**Nim            : 362458302021 **
+**Kelompok       : 6  **
+## deskripsi fitur
+fitur ganti passwoard berfungsi agar pengguna yang sudah login dapat mengganti kata sandinya secara mandiri dengan aman. sebelum password lama terlebih daahulu untuk memastikan bahwa pengguna yang melakukan perubahan adalah pemilik akun yang sah.
+## cara kerja fitur
+1. Membuat file change_password_screen.dart
+2. Menghubungkannya dari tombol "Ganti password" diprofile 
+3. Menambahkan logika verifikasi + update passwoard 
+4. input password lama dan baru
+5. password baru disimpan jika valid
+6. password disimpan dalam bentuk hash
+7. navigasi dari profil ke ganti passwoard
